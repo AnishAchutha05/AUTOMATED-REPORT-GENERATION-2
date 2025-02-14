@@ -16,6 +16,8 @@
 
 # THE OUTPUT OF THE PROGRAM_2 IS:
 
+![OUTPUT]https://github.com/AnishAchutha05/AUTOMATED-REPORT-GENERATION-2/blob/main/report.pdf
+
 
 
 
